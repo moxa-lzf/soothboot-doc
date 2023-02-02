@@ -23,7 +23,8 @@ const config: UserConfig = {
     }),
   ],
   server:{
-    port: 3200
+    host: '0.0.0.0',
+    port: 3200,
   }
 };
 
