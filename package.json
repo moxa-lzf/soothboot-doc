@@ -1,13 +1,11 @@
 {
-  "name": "vue-element-plus-admin-doc",
+  "name": "soothboot-doc",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Archer <502431556@11.com>",
   "license": "MIT",
   "scripts": {
     "dev": "vitepress dev",
-    "build:github": "vitepress build --github",
-    "build:gitee": "vitepress build --gitee",
+    "build": "vitepress build",
     "serve": "vitepress serve"
   },
   "devDependencies": {
