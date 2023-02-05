@@ -2,11 +2,11 @@
 
 配置和管理前端菜单
 
-![#](resource\menuIndex.png)
+![#](/images/menuIndex.png)
 
 ## 新增菜单&编辑菜单
 
-![#](resource\menuAdd.png)
+![#](/images/menuAdd.png)
 
 1. **组件名称：指定路由的名称**
 2. **默认跳转路径：只适用于一级菜单，列如：访问输入url访问/dashboard，则访问/dashboard/home页面**
@@ -16,7 +16,7 @@
 
 ## 按钮配置
 
-![#](resource\menuButton.png)
+![#](/images/menuButton.png)
 
 1. **为菜单配置的按钮，如果不配置，前端配置权限控制后，按钮将无法看到**
 2. **按钮在数据字典维护**

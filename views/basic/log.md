@@ -2,4 +2,4 @@
 
 查看日志
 
-![#](resource\logIndex.png)
+![#](/images/logIndex.png)

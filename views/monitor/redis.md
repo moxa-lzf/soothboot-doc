@@ -2,4 +2,4 @@
 
 查看redis信息
 
-![#](resource\redisIndex.png)
+![#](/images/redisIndex.png)

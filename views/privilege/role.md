@@ -2,23 +2,23 @@
 
 配置和管理角色
 
-![#](resource\roleIndex.png)
+![#](/images/roleIndex.png)
 
 ## 菜单权限配置
 
-![#](resource\roleMenu.png)
+![#](/images/roleMenu.png)
 
 1. **配置角色可以访问的菜单**
 
 ## 按钮权限配置
 
-![#](resource\roleButton.png)
+![#](/images/roleButton.png)
 
 1. **配置角色拥有的菜单权限**
 
 ## 数据权限配置
 
-![#](resource\roleData.png)
+![#](/images/roleData.png)
 
 1. **配置角色访问的数据范围：本人，本部门，本部门以及子部门，所有部门，同时可以额外指定部门**
 2. **数据范围在数据字典维护**

@@ -2,4 +2,4 @@
 
 维护数据字典
 
-![#](resource\dictIndex.png)
+![#](/images/dictIndex.png)

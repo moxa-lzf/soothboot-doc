@@ -2,4 +2,4 @@
 
 维护用户基本信息
 
-![#](resource\userIndex.png)
+![#](/images/userIndex.png)

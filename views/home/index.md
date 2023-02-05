@@ -2,7 +2,7 @@
 
 首页页面
 
-![#](resource\homeIndex.png)
+![#](/images/homeIndex.png)
 
 1. **自定义展示首页**
 2. **账户设置：修改个人基本信息和密码**
@@ -11,7 +11,7 @@
 5. **退出系统：退出当前系统**
 
 项目设置
-![#](resource\projectSetting1.png)
+![#](/images/projectSetting1.png)
 1. **路由缓存：全局控制是否路由缓存，如关闭，切换tab重新查询数据**
-![#](resource\projectSetting2.png)
+![#](/images/projectSetting2.png)
 1. **消息提示：配置全局消息提示类型**
