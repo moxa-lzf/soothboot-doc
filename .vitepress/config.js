@@ -72,6 +72,10 @@ function createSidebar() {
   return {
     '/views/':[
       {
+        text: '首页',
+        link: '/views/home/index',
+      },
+      {
         text: '系统管理',
         children: [
           {
